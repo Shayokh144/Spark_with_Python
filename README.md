@@ -10,12 +10,10 @@ spilling to disk when required by memory limitations.**
     * It is much more faster than MapReduce
     * [Use case](https://hortonworks.com/apache/spark/#section_2)
 * **Spark is not the alternative of Hadoop. It is the alternative of MapReduce**
-* **Spark Ecosystem**
+* [Spark Ecosystem](https://www.kdnuggets.com/2016/03/top-spark-ecosystem-projects.html)
+
 
 ![alt text][SparkEcosystem]
-
-   *  [Details](https://www.kdnuggets.com/2016/03/top-spark-ecosystem-projects.html)
-
 
 
 
