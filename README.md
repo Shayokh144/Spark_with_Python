@@ -14,7 +14,21 @@ spilling to disk when required by memory limitations.**
 
 ![alt text][SparkEcosystem]
 
- *  *  [Details](https://www.kdnuggets.com/2016/03/top-spark-ecosystem-projects.html)
+   *  [Details](https://www.kdnuggets.com/2016/03/top-spark-ecosystem-projects.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [SparkEcosystem]: https://github.com/Shayokh144/Spark_with_Python-Big_data_Fastest-Smallest_solution-/blob/master/sparkEco.png
