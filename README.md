@@ -6,7 +6,7 @@ spilling to disk when required by memory limitations.**
     * [Chapter One](http://www.bigdata-toronto.com/2016/assets/getting_started_with_apache_spark.pdf)
     
 * **Why  Apache Spark??**
-    * [Spark is mostly popular for its speed,ease of use,running evereywhere capability](https://spark.apache.org/) 
+    * [Spark is mostly popular for its speed,ease of use,capability of running evereywhere ](https://spark.apache.org/) 
     * It is much more faster than MapReduce
     * [Use case](https://hortonworks.com/apache/spark/#section_2)
 * **Spark is not the alternative of Hadoop. It is the alternative of MapReduce**
