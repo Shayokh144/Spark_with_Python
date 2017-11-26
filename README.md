@@ -64,8 +64,7 @@ spilling to disk when required by memory limitations.**
 
 * Now click to download "Download Spark: spark-2.1.0-bin-hadoop2.7.tgz"
 * After finishing download cut-paste **spark-2.1.0-bin-hadoop2.7.tgz to** **"home"** directory
-    * goto **"home"** directory and open "terminal"
-         * to install **spark-2.1.0-bin-hadoop2.7.tgz** run following command in the terminal:
+    * goto **"home"** directory and open "terminal" and run following commands:
          * **$ sudo tar -zxvf spark-2.1.0-bin-hadoop2.7.tgz**
          * **$ export SPARK_HOME='home/asif/spark-2.1.0-bin-hadoop2.7'**
          * **$ export PATH=$SPARK_HOME:$PATH**
@@ -77,7 +76,7 @@ spilling to disk when required by memory limitations.**
          * **$ cd spark-2.1.0-bin-hadoop2.7/**
          * **$ cd python**
          * **$ python3**
-         * *  Last command will open python editor, type there "**import pyspark**" if it runs without error, then we are done!!
+         * Last command will open python editor, type there "**import pyspark**" if it runs without error, then we are done!!
 
 
 
