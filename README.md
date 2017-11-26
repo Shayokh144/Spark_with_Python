@@ -43,20 +43,20 @@ spilling to disk when required by memory limitations.**
 ![alt text][jupyterNotebook]
 
 * Now we nedd **JAVA**. First check if it exists:
-*   * **$ java -version**
-*   *    * if it is preinstalled it will show something like this "openjdk version "1.8.0_151....etc""
-*   If not installed previously:
-*   * **$ sudo apt-get update**
-*   * **$ sudo apt-get install default-jre**
-*   * **$ java -version**
+    * **$ java -version**
+    * if it is preinstalled it will show something like this "openjdk version "1.8.0_151....etc""
+* If not installed previously:
+    * **$ sudo apt-get update**
+    * **$ sudo apt-get install default-jre**
+    * **$ java -version**
 
 * Now install **Scala**
-         * **$ sudo apt-get install scala**
-         * **$ scala -version**
+    * **$ sudo apt-get install scala**
+    * **$ scala -version**
 
 * To connect python with scala and java we need to install **py4j**
-*   **$ pip3 install py4j**
-*   Now its time to install **Spark**
+    * **$ pip3 install py4j**
+### Now its time to install **Spark**
 *   To download spark visit this link : https://spark.apache.org/downloads.html and set 
 **spark release : 2.1.0** and **package type:Pre-built Hadoop 2.7 and later** like following image 
 
