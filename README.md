@@ -34,11 +34,11 @@ spilling to disk when required by memory limitations.**
     * **$ python3**
          * if the version is 3.5 then it's ok, otherwise install Python3.5
 * Install pip3
-    **$ sudo apt install python-3 pip**
+    * **$ sudo apt install python-3 pip**
 * Install **jupyter notebook**
     * **$ pip3 install jupyter**
     * **$ jypyter notebook**
-    *   * it will open jupyter notebook in our default browser, if it is not opend then click the link from **terminal**
+    * it will open jupyter notebook in our default browser, if it is not opend then click the link from **terminal**
 
 ![alt text][jupyterNotebook]
 
