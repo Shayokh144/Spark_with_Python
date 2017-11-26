@@ -62,6 +62,8 @@ spilling to disk when required by memory limitations.**
 
 ![alt text][sparkDownload]
 
+
+
 * Now click to download "Download Spark: spark-2.1.0-bin-hadoop2.7.tgz"
 * After finishing download cut-paste **spark-2.1.0-bin-hadoop2.7.tgz to** **"home"** directory
     * goto **"home"** directory and open "terminal" and run following commands:
