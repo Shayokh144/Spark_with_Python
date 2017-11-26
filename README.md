@@ -22,23 +22,23 @@ spilling to disk when required by memory limitations.**
 
 ## Installation
 * **Requirements**
-*   * OS - **Linux /Mac / Windows** 
-*   * **Spark**
-*   * **Python**
-*   * **Scala,** **Java**
+    * OS - **Linux /Mac / Windows** 
+    * **Spark**
+    * **Python**
+    * **Scala,** **Java**
 
 ### Installation Instructions
 **Below instructions are applicable for Ubuntu 16.04**
 * Here we use **Spark 2.1.0** , for this perticular version we need to install **Python3.5** to avoid any issue.
 * First we have to check the default Python version, to do this, open **Terminal** any run:
-*   * **$ python3**
-*   *    * if the version is 3.5 then it's ok, otherwise install Python3.5
+    * **$ python3**
+         * if the version is 3.5 then it's ok, otherwise install Python3.5
 * Install pip3
-*   * **$ sudo apt install python-3 pip**
+    **$ sudo apt install python-3 pip**
 * Install **jupyter notebook**
-*   * **$ pip3 install jupyter**
-*   * **$ jypyter notebook**
-*   *   * it will open jupyter notebook in our default browser, if it is not opend then click the link from **terminal**
+    * **$ pip3 install jupyter**
+    * **$ jypyter notebook**
+    *   * it will open jupyter notebook in our default browser, if it is not opend then click the link from **terminal**
 
 ![alt text][jupyterNotebook]
 
@@ -51,32 +51,32 @@ spilling to disk when required by memory limitations.**
 *   * **$ java -version**
 
 * Now install **Scala**
-*   * **$ sudo apt-get install scala**
-*   * **$ scala -version**
+         * **$ sudo apt-get install scala**
+         * **$ scala -version**
 
 * To connect python with scala and java we need to install **py4j**
-*   * **$ pip3 install py4j**
-* Now its time to install **Spark**
-*   * To download spark visit this link : https://spark.apache.org/downloads.html and set 
+*   **$ pip3 install py4j**
+*   Now its time to install **Spark**
+*   To download spark visit this link : https://spark.apache.org/downloads.html and set 
 **spark release : 2.1.0** and **package type:Pre-built Hadoop 2.7 and later** like following image 
 
 ![alt text][sparkDownload]
 
-*   * Now click to download "Download Spark: spark-2.1.0-bin-hadoop2.7.tgz"
-*   * After finishing download cut-paste **spark-2.1.0-bin-hadoop2.7.tgz to** **"home"** directory
-*   * goto **"home"** directory and open "terminal"
+*   Now click to download "Download Spark: spark-2.1.0-bin-hadoop2.7.tgz"
+*   After finishing download cut-paste **spark-2.1.0-bin-hadoop2.7.tgz to** **"home"** directory
+*   goto **"home"** directory and open "terminal"
          * to install **spark-2.1.0-bin-hadoop2.7.tgz** run following command in the terminal:
          * **$ sudo tar -zxvf spark-2.1.0-bin-hadoop2.7.tgz**
          * **$ export SPARK_HOME='home/asif/spark-2.1.0-bin-hadoop2.7'**
          * **$ export PATH=$SPARK_HOME:$PATH**
          * **$ export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH**
          * **$ export PYSPARK_DRIVER_PYTHON="jupyter"**
-         * **export PYSPARK_DRIVER_PYTHON_OPTS="notebook"**
-         * **export PYSPARK_PYTHON=python3**
-         * **sudo cdmod 777 spark-2.1.0-bin-hadoop2.7**
-         * **cd spark-2.1.0-bin-hadoop2.7/**
-         * **cd python**
-         * **python3**
+         * **$ export PYSPARK_DRIVER_PYTHON_OPTS="notebook"**
+         * **$ export PYSPARK_PYTHON=python3**
+         * **$ sudo cdmod 777 spark-2.1.0-bin-hadoop2.7**
+         * **$ cd spark-2.1.0-bin-hadoop2.7/**
+         * **$ cd python**
+         * **$ python3**
          * Last command will open python editor, type there "**import pyspark**" if it runs without error, then we are done!!
 
 
