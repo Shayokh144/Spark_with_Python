@@ -65,19 +65,19 @@ spilling to disk when required by memory limitations.**
 * Now click to download "Download Spark: spark-2.1.0-bin-hadoop2.7.tgz"
 * After finishing download cut-paste **spark-2.1.0-bin-hadoop2.7.tgz to** **"home"** directory
 * goto **"home"** directory and open "terminal"
-    * to install **spark-2.1.0-bin-hadoop2.7.tgz** run following command in the terminal:
-    * **$ sudo tar -zxvf spark-2.1.0-bin-hadoop2.7.tgz**
-    * **$ export SPARK_HOME='home/asif/spark-2.1.0-bin-hadoop2.7'**
-    * **$ export PATH=$SPARK_HOME:$PATH**
-    * **$ export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH**
-    * **$ export PYSPARK_DRIVER_PYTHON="jupyter"**
-    * **$ export PYSPARK_DRIVER_PYTHON_OPTS="notebook"**
-    * **$ export PYSPARK_PYTHON=python3**
-    * **$ sudo cdmod 777 spark-2.1.0-bin-hadoop2.7**
-    * **$ cd spark-2.1.0-bin-hadoop2.7/**
-    * **$ cd python**
-    * **$ python3**
-    *  Last command will open python editor, type there "**import pyspark**" if it runs without error, then we are done!!
+         * to install **spark-2.1.0-bin-hadoop2.7.tgz** run following command in the terminal:
+         * **$ sudo tar -zxvf spark-2.1.0-bin-hadoop2.7.tgz**
+         * **$ export SPARK_HOME='home/asif/spark-2.1.0-bin-hadoop2.7'**
+         * **$ export PATH=$SPARK_HOME:$PATH**
+         * **$ export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH**
+         * **$ export PYSPARK_DRIVER_PYTHON="jupyter"**
+         * **$ export PYSPARK_DRIVER_PYTHON_OPTS="notebook"**
+         * **$ export PYSPARK_PYTHON=python3**
+         * **$ sudo cdmod 777 spark-2.1.0-bin-hadoop2.7**
+         * **$ cd spark-2.1.0-bin-hadoop2.7/**
+         * **$ cd python**
+         * **$ python3**
+         * *  Last command will open python editor, type there "**import pyspark**" if it runs without error, then we are done!!
 
 
 
