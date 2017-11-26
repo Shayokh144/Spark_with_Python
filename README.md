@@ -69,6 +69,7 @@ spilling to disk when required by memory limitations.**
     * goto **"home"** directory and open "terminal" and run following commands:
          * **$ sudo tar -zxvf spark-2.1.0-bin-hadoop2.7.tgz**
          * **$ export SPARK_HOME='home/asif/spark-2.1.0-bin-hadoop2.7'**
+            * write this path "home/asif/spark-2.1.0-bin-hadoop2.7" according to your pc  
          * **$ export PATH=$SPARK_HOME:$PATH**
          * **$ export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH**
          * **$ export PYSPARK_DRIVER_PYTHON="jupyter"**
