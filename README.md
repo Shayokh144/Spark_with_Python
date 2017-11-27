@@ -99,7 +99,8 @@ spilling to disk when required by memory limitations.**
     * **$ cd spark-2.1.0-bin-hadoop2.7**
     * **$ cd python**
     * **$ jupyter notebook**
-* Now we are ready to go.....
+    
+* [DataFrame doc](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
     
     
 [sparkDownload]: https://github.com/Shayokh144/Spark_with_Python/blob/master/sparkDownload.png
