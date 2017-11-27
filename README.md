@@ -80,9 +80,28 @@ spilling to disk when required by memory limitations.**
          * **$ cd python**
          * **$ python3**
          * Last command will open python editor, type there "**import pyspark**" if it runs without error, then we are done!!
+         * Now type "**quit()**" to get out......
+ * if the above installation doesnt work and Python3.6 or other version with anaconda is preinstalled in the system, there are few more steps to go. In the terminal run following commands:
+    * **$ export PATH=~/anaconda3/bin:$PATH**
+    * **$ conda create -n py35 python=3.5 anaconda**
+    * To activate this Python3.5 env:
+        * **$ source activate py35**
+        * **$ python3**
+        * **import pyspark** # it should work fine now
+        * **quit()**
+    * To deactivate :
+        * **source deactivate**
 
+## Getting Started
 
-
+* Open terminal , and run following commands to open **jupyter notebook**
+    * **$ ls**
+    * **$ cd spark-2.1.0-bin-hadoop2.7**
+    * **$ cd python**
+    * **$ jupyter notebook**
+* Now we are ready to go.....
+    
+    
 [sparkDownload]: https://github.com/Shayokh144/Spark_with_Python/blob/master/sparkDownload.png
 [jupyterNotebook]: https://github.com/Shayokh144/Spark_with_Python/blob/master/jupyterNoteBook.png
 [SparkEcosystem]: https://github.com/Shayokh144/Spark_with_Python-Big_data_Fastest-Smallest_solution-/blob/master/sparkEco.png
