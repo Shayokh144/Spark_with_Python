@@ -100,7 +100,7 @@ spilling to disk when required by memory limitations.**
     * **$ cd python**
     * **$ jupyter notebook**
     
-* [DataFrame doc](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
+* [DataFrame(doc)](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
     
     
 [sparkDownload]: https://github.com/Shayokh144/Spark_with_Python/blob/master/sparkDownload.png
