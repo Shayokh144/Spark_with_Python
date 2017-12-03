@@ -84,6 +84,7 @@ spilling to disk when required by memory limitations.**
  * if the above installation doesnt work and Python3.6 or other version with anaconda is preinstalled in the system, there are few more steps to go. In the terminal run following commands:
     * **$ export PATH=~/anaconda3/bin:$PATH**
     * **$ conda create -n py35 python=3.5 anaconda**
+        * 'py35' is the name of the environment
     * To activate this Python3.5 env:
         * **$ source activate py35**
         * **$ python3**
