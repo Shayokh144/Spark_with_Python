@@ -101,10 +101,12 @@ spilling to disk when required by memory limitations.**
     * **$ cd python**
     * **$ jupyter notebook**
     
-* [DataFrame(doc)](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
+
 * [DataFrame, Cleaning Data & Spark Sql Code Example](https://github.com/Shayokh144/Spark_with_Python/tree/master/DataFrameAndCleaningData)
 * [Spark MLlib Code Example](https://github.com/Shayokh144/Spark_with_Python/tree/master/MLlib)
-    
+* [Spark MLlib Doc](https://spark.apache.org/docs/2.1.0/ml-guide.html)
+* [DataFrame(doc)](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
+
 [sparkDownload]: https://github.com/Shayokh144/Spark_with_Python/blob/master/sparkDownload.png
 [jupyterNotebook]: https://github.com/Shayokh144/Spark_with_Python/blob/master/jupyterNoteBook.png
 [SparkEcosystem]: https://github.com/Shayokh144/Spark_with_Python-Big_data_Fastest-Smallest_solution-/blob/master/sparkEco.png
