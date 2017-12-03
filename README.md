@@ -101,7 +101,8 @@ spilling to disk when required by memory limitations.**
     * **$ jupyter notebook**
     
 * [DataFrame(doc)](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
-    
+* [DataFrame, Cleaning Data & Spark Sql Code Example](https://github.com/Shayokh144/Spark_with_Python/tree/master/DataFrameAndCleaningData)
+* [Spark MLlib Code Example]
     
 [sparkDownload]: https://github.com/Shayokh144/Spark_with_Python/blob/master/sparkDownload.png
 [jupyterNotebook]: https://github.com/Shayokh144/Spark_with_Python/blob/master/jupyterNoteBook.png
