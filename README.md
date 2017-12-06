@@ -108,7 +108,7 @@ spilling to disk when required by memory limitations.**
     * [Logistic Regression](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/LogisticRegressionExample.ipynb)
     * [Tree Regression](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/TreeRegressionExample.ipynb)
     * [Classifier Tree](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/TreeFamilyExample.ipynb)
-    * [Recomendation System(Collaborative Filtering)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/MovieRecomendation(Collaborative%20Filtering).ipynb)
+    * [Recommendation System(Collaborative Filtering)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/MovieRecomendation(Collaborative%20Filtering).ipynb)
     * [Multilayer Perceptron (in Binary classification)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/MultilayerPerceptronClassifier.ipynb)
     * [Multilayer Perceptron (in Multiple classification)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/MultilayerPerceptron(SeedData).ipynb)
     * [Unsupervised(K-means)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/ClusteringOnSeedData.ipynb)
