@@ -104,6 +104,15 @@ spilling to disk when required by memory limitations.**
 
 * [DataFrame, Cleaning Data & Spark Sql Code Example](https://github.com/Shayokh144/Spark_with_Python/tree/master/DataFrameAndCleaningData)
 * [Spark MLlib Code Example](https://github.com/Shayokh144/Spark_with_Python/tree/master/MLlib)
+    * [Linear Regression](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/Linear_Regression_example.ipynb)
+    * [Logistic Regression](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/LogisticRegressionExample.ipynb)
+    * [Tree Regression](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/TreeRegressionExample.ipynb)
+    * [Classifier Tree](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/TreeFamilyExample.ipynb)
+    * [Recomendation System(Collaborative Filtering)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/MovieRecomendation(Collaborative%20Filtering).ipynb)
+    * [Multilayer Perceptron (in Binary classification)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/MultilayerPerceptronClassifier.ipynb)
+    * [Multilayer Perceptron (in Multiple classification)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/MultilayerPerceptron(SeedData).ipynb)
+    * [Unsupervised(K-means)](https://github.com/Shayokh144/Spark_with_Python/blob/master/MLlib/ClusteringOnSeedData.ipynb)
+* [Hypermeter Tuning with cross validation and train validation split](https://github.com/Shayokh144/Spark_with_Python/blob/master/HyperparameterTuning/HyperparameterTuningExample.ipynb)
 * [Spark MLlib Doc](https://spark.apache.org/docs/2.1.0/ml-guide.html)
 * [DataFrame(doc)](https://spark.apache.org/docs/2.1.0/sql-programming-guide.html)
 
