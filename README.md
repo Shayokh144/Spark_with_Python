@@ -75,7 +75,7 @@ spilling to disk when required by memory limitations.**
          * **$ export PYSPARK_DRIVER_PYTHON="jupyter"**
          * **$ export PYSPARK_DRIVER_PYTHON_OPTS="notebook"**
          * **$ export PYSPARK_PYTHON=python3**
-         * **$ sudo cdmod 777 spark-2.1.0-bin-hadoop2.7**
+         * **$ sudo chmod 777 spark-2.1.0-bin-hadoop2.7**
          * **$ cd spark-2.1.0-bin-hadoop2.7/**
          * **$ cd python**
          * **$ python3**
